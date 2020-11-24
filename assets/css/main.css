@@ -37,6 +37,18 @@ ol, ul {
 	list-style: none;
 }
 
+li{
+		display: inline-block;
+		padding: 10px 10px;
+	}
+	
+.media{
+	position: absolute;
+	top: 40%;
+	left; 50%;
+	transform: translate(-53%, -50%);
+	}
+
 blockquote, q {
 	quotes: none;
 }
@@ -80,18 +92,6 @@ input, select, textarea {
 
 	body {
 		-ms-overflow-style: scrollbar;
-	}
-	
-	li{
-		display: inline-block;
-		padding: 10px 10px;
-	}
-	
-	.media{
-	position: absolute;
-	top: 40%;
-	left; 50%;
-	transform: translate(-53%, -50%);
 	}
 
 	@media screen and (max-width: 480px) {
@@ -4165,6 +4165,19 @@ input, select, textarea {
 			padding: 2em 1.5em 0.1em 1.5em ;
 		}
 
+	}
+
+	
+	li{
+		display: inline-block;
+		padding: 10px 10px;
+	}
+	
+	.media{
+	position: absolute;
+	top: 40%;
+	left; 50%;
+	transform: translate(-53%, -50%);
 	}
 
 
