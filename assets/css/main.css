@@ -4158,3 +4158,7 @@ input, select, textarea {
 	@media li{
 		display: inline-block
 	}
+
+	@media a{
+		padding: 10px;
+	}
