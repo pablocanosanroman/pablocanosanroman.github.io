@@ -2648,10 +2648,7 @@ input, select, textarea {
 		ul.icons li {
 			display: inline-block;
 			padding: 10px 10px;
-			position: absolute;
-			top: 40%;
-			left:50%;
-			transform: translate(-53%, -50%);
+			
 		}
 
 			ul.icons li:last-child {
