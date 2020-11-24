@@ -4155,12 +4155,3 @@ input, select, textarea {
 
 	}
 
-	@media screen and (max-width: 480px) {
-		li{
-		display: inline-block
-	}
-
-	@media screen and (max-width: 480px) {
-		a{
-		padding: 10px;
-	}
