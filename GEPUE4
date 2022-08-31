@@ -1,0 +1,100 @@
+<!DOCTYPE HTML>
+<!--
+	Solid State by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>SnowRush</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel ="shortcut icon" href="images/website icon.ico">
+		<link rel ="apple-touch-icon" href="images/favicon.png">
+		<link rel ="icon" sizes="192x192" href="images/favicon.png">
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+    </head>
+	<body class="is-preload">
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<h1><a href="index.html">Go home</a></h1>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<div class="inner">
+							<h2>Menu</h2>
+							<ul class="links">
+								<li><a href="index.html">Home</a></li>
+                <li><a href="SnowRush.html">SnowRush</a></li>
+								<li><a href="TPOElements.html">The Power Of The Elements</a></li>
+								<li><a href="GEPUE4.html">Unreal Engine FPS puzzle</a></li>
+								<li><a href="CV.html">CV</a></li>
+								
+							</ul>
+							<a href="#" class="close">Close</a>
+						</div>
+					</nav>
+        
+        <!-- Wrapper -->
+					<section id="wrapper">
+						<header>
+							<div class="inner">
+								<h2>Unreal Engine FPS puzzle</h2>
+								<div class="box alt">
+											<div class="row gtr-uniform">
+												<div class="col-12"><span class="image fit"><img src="images/GEPUE4.png" alt="" /></span></div>
+											</div>
+								</div>
+								<p>In this page, I will show the FPS puzzle game that I created for games engine programming using live code in Unreal Engine 4. I took inspiration from portal and from  the magnets chapter in It takes two.</p>
+							</div>
+						</header>
+						<!-- Seven -->
+							<section id="seven" class="wrapper alt style1">
+								<div class="center">
+									<h2 class="major">Unreal FPS puzzle Game video</h2>
+									<video width="720" height="480" controls loop>
+									<source src="images/GamesDevVideo.mp4" type="video/mp4">
+									</video>
+								</div>
+							</section>
+							
+						
+					</section>
+            
+        <!-- Footer -->
+					<section id="footer">
+						<div class="inner">
+							<h2 class="major">My Social Media</h2>
+							</form>
+							<ul class="contact">
+								<li><a href="https://www.linkedin.com/in/pablo-cano-san-roman/"><img src ="images/Linkedin icon.png" width="45" height="45"></a></li>
+								<li><a href="https://github.com/pablocanosanroman"><img src ="images/github icon.png" width="45" height="45"></a></li>
+								<li><a href="https://twitter.com/PabloCanoSanRo1"><img src ="images/twitter icon.png" width="45" height="45"></a></li>
+								
+							</ul>
+							<ul class="copyright">
+								<li>&copy; Copyright 2020 HTML.am</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+        <!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
